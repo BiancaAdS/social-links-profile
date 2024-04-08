@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS/hub).
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub).
 
 ## Table of contents
 
@@ -27,7 +27,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/BiancaAdS/blog-preview-card)
+- Solution URL: [Solution URL](https://github.com/BiancaAdS/social-links-profile)
 - Live Site URL: [Live site URL](https://blog-preview-card-gray-psi.vercel.app/)
 
 ## My process
