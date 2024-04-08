@@ -19,16 +19,16 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 **For Desktop** :computer:
 
-![Screenshot - Desktop](./assets/images/)
+![Screenshot - Desktop](./assets/images/Captura_tela_desktop.jpeg)
 
 **For Mobile** :iphone:
 
-![Screenshot - Mobile](./assets/images/)
+![Screenshot - Mobile](./assets/images/Captura_tela_mobile.jpeg)
 
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/BiancaAdS/social-links-profile)
-- Live Site URL: [Live site URL](https://blog-preview-card-gray-psi.vercel.app/)
+- Live Site URL: [Live site URL](https://social-links-profile-silk.vercel.app/)
 
 ## My process
 
